@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "620710507545",
+    "project_id": "apimovil-2b24a",
+    "storage_bucket": "apimovil-2b24a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620710507545:android:be631dd1c72f6ca04ca688",
+        "android_client_info": {
+          "package_name": "com.codigocorrecto.crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620710507545-e6c9j6o22tupffh0905t828091mpfer5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-k5CH41zfcf4FibdDHs3oAGWa7Nt0rjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620710507545-e6c9j6o22tupffh0905t828091mpfer5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
