@@ -68,7 +68,7 @@ La clase ```_EditNamePageState``` extiende ```State``` y sobreescribe el método
 
 A continuación, se encuentra la barra de navegación incluye un título para la página y un ícono.
 
-![editar3](https://user-images.githubusercontent.com/74840012/218286487-a331ead2-d56b-44f4-86d1-9ff082d97d11.png)
+![editar3](https://user-images.githubusercontent.com/74840012/218287151-120e742e-059e-4f45-bf88-e6e7dca76cd9.png)
 	<sub>Fig. 3 Barra de navegación </sub>  
 
 Después se encuentra en botón y cuando se presiona el botón ```Actualizar Lista```, se llama a la función ```updatePeople``` del servicio ```firebase_service.dart``` para actualizar el elemento en la base de datos de Firebase. Después de actualizar con éxito, se regresa a la página anterior utilizando la función ```Navigator.pop```.
