@@ -23,7 +23,8 @@ Funcionalidad (Jorge)
 Lo primero que se realiza es importar las herramientas necesarias
 <center
 ![editar1](https://user-images.githubusercontent.com/74840012/218286479-d709e471-3d87-41be-947e-060870cfe97e.png)
-	<sub>Fig. 1 Importaciones </sub>
+
+<sub>Fig. 1 Importaciones </sub>
 />
 
 
@@ -35,7 +36,8 @@ La importacion```import '../services/firebase_service.dart';```la cual es un ser
 A continuación, se crea dos clases 
 <center
 ![editar2](https://user-images.githubusercontent.com/74840012/218286484-ebf8890f-af89-45ca-822d-8c2cc5ef4603.png)
-	<sub>Fig. 2 Clases </sub>
+
+<sub>Fig. 2 Clases </sub>
 />
 
 
@@ -47,7 +49,8 @@ La clase ```_EditNamePageState``` extiende ```State``` y sobreescribe el método
 A continuación, se coloca textos informativos para el usuario, mediante componentes de flutter junto a estilos de color, padding y otros. 
 <center
 ![editar3](https://user-images.githubusercontent.com/74840012/218286487-a331ead2-d56b-44f4-86d1-9ff082d97d11.png)
-	<sub>Fig. 3 Textos </sub>  
+
+<sub>Fig. 3 Textos </sub>  
 />
 
 
@@ -55,7 +58,8 @@ Después de colocar los textos informativos se encuentra en botón y cuando se p
 
 <center
 ![editar4](https://user-images.githubusercontent.com/74840012/218286491-6b8f3f38-a70b-4d85-9f06-c50711a851f6.png)
-	<sub>Fig. 4 Bóton Actualizar</sub>      
+
+<sub>Fig. 4 Bóton Actualizar</sub>      
 />
 
 **Eliminar**
