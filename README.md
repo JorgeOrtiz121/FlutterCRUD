@@ -66,14 +66,12 @@ La clase ```"EditNamePage"  ``` es una página widget que extiende la clase ```S
 
 La clase ```_EditNamePageState``` extiende ```State``` y sobreescribe el método ```build```, que define la estructura visual de la página. El método ```build```crea una barra de navegación con un título y un icono de actualización, y un cuerpo que contiene una descripción, un campo de texto para actualizar un elemento, y un botón para confirmar la actualización.
 
-A continuación, se coloca textos informativos para el usuario, mediante componentes de flutter junto a estilos de color, padding y otros. 
+A continuación, se encuentra la barra de navegación incluye un título para la página y un ícono.
 
 ![editar3](https://user-images.githubusercontent.com/74840012/218286487-a331ead2-d56b-44f4-86d1-9ff082d97d11.png)
-	<sub>Fig. 3 Textos </sub>  
+	<sub>Fig. 3 Barra de navegación </sub>  
 
-
-
-Después de colocar los textos informativos se encuentra en botón y cuando se presiona el botón ```Actualizar Lista```, se llama a la función ```updatePeople``` del servicio ```firebase_service.dart``` para actualizar el elemento en la base de datos de Firebase. Después de actualizar con éxito, se regresa a la página anterior utilizando la función ```Navigator.pop```.
+Después se encuentra en botón y cuando se presiona el botón ```Actualizar Lista```, se llama a la función ```updatePeople``` del servicio ```firebase_service.dart``` para actualizar el elemento en la base de datos de Firebase. Después de actualizar con éxito, se regresa a la página anterior utilizando la función ```Navigator.pop```.
 
 ![editar4](https://user-images.githubusercontent.com/74840012/218286491-6b8f3f38-a70b-4d85-9f06-c50711a851f6.png)
 	<sub>Fig. 4 Bóton Actualizar</sub>      
