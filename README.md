@@ -42,7 +42,7 @@ El cuerpo de la página se define como una columna que contiene una etiqueta de 
 
 **Visualizar** 
 Lo primero que se podra visualizar es que se usa un FutureBuilder esto es porque este widget nos ayuda con la ocntruccion de listas y de eventos que se ha recopilado en un Statesful. ListView sera el widget que nos desplegara toda la informacion que traera de Firebase a nuestra app donde snapchot.data es la variable donde contiene la lista de datos.
-![image](https://epnecuador-my.sharepoint.com/personal/jorge_ortiz_epn_edu_ec/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjorge_ortiz_epn_edu_ec%2FDocuments%2Fimagen_2023-02-12_090519606%2Epng&parent=%2Fpersonal%2Fjorge_ortiz_epn_edu_ec%2FDocuments)
+![image](https://epnecuador-my.sharepoint.com/:i:/g/personal/jorge_ortiz_epn_edu_ec/EfhMOD1nemVFl7M7_-91o_UBxk7QuI9aecR36blAMGrDuw?e=UjIitE)
 
 **Editar**
 
