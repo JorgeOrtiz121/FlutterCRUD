@@ -8,8 +8,13 @@ Integrantes :
 Evaluación flutter
 
 Consiste en implementar un CRUD con flutter que se conecta a firebase.
+Para la creacion de la coenxion debemos utilizar 4 comanods importantes que son: npm install -g firebase-tools, firebase login, dart pub global activate flutterfire_cli, flutterfire configure donde nos pedira un loggeo con nuestras cuentas de google a firebase y la aceptacion de terminos. En el ultimo comando nos pedira a que tipo de aplicacion de firebase se coenctara flutter. Y finalmente se creara una carptea automatica con las credenciales automaticas firebase_options.dart donde contiene las credenciales para correr en android, web e ios.
+![image](https://github.com/JorgeOrtiz121/Imagenes/blob/main/imagen_2023-02-12_095516246.png)
+
 
 Funcionalidad (Jorge) 
+Se puede presentar la funcionalidad principal de la app de una lista de tareas. para visualizar toda la uncionalidad. Por favor revisar el video de Youtube.
+![image](https://user-images.githubusercontent.com/74801652/218286692-fc1d8955-351c-46bb-9609-86cc5a88fd69.png)
 
 # CRUD 
 
