@@ -41,7 +41,7 @@ El cuerpo de la página se define como una columna que contiene una etiqueta de 
 
 
 **Visualizar** 
-Lo primero que se podra visualizar es que se usa un FutureBuilder esto es porque este widget nos ayuda con la ocntruccion de listas y de eventos que se ha recopilado en un Statesful. ListView sera el widget que nos desplegara toda la informacion que traera de Firebase a nuestra app donde snapchot.data es la variable donde contiene la lista de datos.
+Lo primero que se podra visualizar es que se usa un FutureBuilder esto es porque este widget nos ayuda con la ocntruccion de listas y de eventos que se ha recopilado en un Statesful. ListView sera el widget que nos desplegara toda la informacion que traera de Firebase a nuestra app donde snapchot.data es la variable donde contiene la lista de datos
 ![image](https://github.com/JorgeOrtiz121/Imagenes/blob/main/Captura11.PNG)
 
 **Editar**
@@ -84,6 +84,9 @@ Después se encuentra en botón y cuando se presiona el botón ```Actualizar Lis
 <sub>Fig. 4 Bóton Actualizar</sub> 
 	
 **Eliminar**
+Para eliminar se usara una un widget Dismiable donde esto es una funcionalidad de arrastre tipo boton donde tendra una fucnionalidad que es OnDismissed donde tendra una dirreccion y la funcionalidad de una funcion asyncrona para elmetodo de eliminar  por medio de la informacion del objeto de los ladtos de una lista con su id y la fucnion removeAt donde por medio del index nos ayudara a elimianr un objeto especifico de Firebase en la app
+ ![image](https://user-images.githubusercontent.com/74801652/218286760-c82a320b-dfc8-4f10-ac3c-6abe57b8e9d5.png)
+
 
 <hr/>
 Para mayor entendimiento visite el video 
